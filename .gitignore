@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.envrc
+demucs-env/
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Audio
+*.wav
+*.mp3
+output/
+separated/
+Songs/
+# tablaDataset/
+TablaRhythms/
+
+# Others
+*.log
